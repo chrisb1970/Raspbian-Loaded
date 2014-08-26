@@ -30,7 +30,7 @@ LAMP (Wierd but I found only one Raspbian LAMPi and it doesn't work. WOW really 
 
 5. Installed Apache with ftp access to the Default port 80 website
 
-6. Installed Mysql (I did not configue MySQL I figure that the user would want to for security incase they forget to change U & P)
+6. Installed Mysql (I did not configue MySQL I figure that the user wouod want to for security incase they forget to change U & P)
 
 7. Installed PPP (Perl, PHP, Python)
 
